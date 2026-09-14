@@ -79,3 +79,4 @@ def contacts():
         </div>
     </body>
     ''')
+app = app
